@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/linedejgaard/static/css/main.2379918b.css",
+    "main.js": "/linedejgaard/static/js/main.268597c9.js",
+    "static/media/img-1.jpg": "/linedejgaard/static/media/img-1.eb270c9cb2f7a0199635.jpg",
+    "static/media/img-8.jpg": "/linedejgaard/static/media/img-8.70247545a28d88e693a0.jpg",
+    "static/media/img-2.jpg": "/linedejgaard/static/media/img-2.496ffeaeadfc8e83ce4e.jpg",
+    "index.html": "/linedejgaard/index.html",
+    "main.2379918b.css.map": "/linedejgaard/static/css/main.2379918b.css.map",
+    "main.268597c9.js.map": "/linedejgaard/static/js/main.268597c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2379918b.css",
+    "static/js/main.268597c9.js"
+  ]
+}

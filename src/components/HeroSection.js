@@ -6,8 +6,10 @@ import './HeroSection.css';
 
 function HeroSection() {
   return (
+    <div className='hero'>
     <div className='hero-container'>
-      <video src='/videos/video-1.mp4' autoPlay loop muted />
+      {/* <video src='/videos/video-1.mp4' autoPlay loop muted /> */}
+      {/* <img src='../../public/images/sten.jpeg'/> */}
       <h1>LINE DEJGAARD</h1>
       <p>Master's Student in Computer Science</p>
       <div className='hero-btns'>
@@ -40,6 +42,7 @@ function HeroSection() {
         </Button>
 
       </div>
+    </div>
     </div>
   );
 }
